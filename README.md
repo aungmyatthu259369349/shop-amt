@@ -13,7 +13,7 @@ iOS Shopping App README
 框架：采用 UIKit 构建用户界面，结合 Core Data 进行数据持久化，使用 Alamofire 处理网络请求。
 数据库：本地使用 SQLite 数据库，通过 Core Data 进行对象关系映射，方便数据管理。
 四、安装与运行
-克隆项目仓库：在终端中运行git clone [项目仓库链接]。
+克隆项目仓库：在终端中运行git clone [[项目仓库链接](https://github.com/aungmyatthu259369349/shop-amt.git)]。
 打开项目：使用 Xcode 打开项目目录下的.xcodeproj文件。
 配置环境：确保你的 Xcode 版本满足项目要求，并安装必要的依赖库。
 运行项目：选择合适的模拟器或真机，点击 Xcode 中的运行按钮即可启动 APP。
